@@ -1,0 +1,9 @@
+Installation:
+
+ 1. pip install numpy
+ 2. pip3 install numpy
+
+Ubuntu:
+ 1. sudo apt-get install python-numpy
+
+
